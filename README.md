@@ -1,16 +1,5 @@
-# challenge_ivoy
+# Challenge Flutter Developer
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este proyecto fue realizado para una prueba técnica.
+En él se emplea Flutter SDK y GraphQL para desarrollar una app sencilla en la que se hacen llamados a una API y se imprimen los valores en pantalla.
+Posee una vista home en donde se desplegan los 10 primeros resultados y se accede al detalle de cada uno en una segunda vista.
